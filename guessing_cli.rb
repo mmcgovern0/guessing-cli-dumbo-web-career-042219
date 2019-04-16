@@ -1,5 +1,5 @@
 # Code your solution here!
-def guessing_cli
+def run_guessing_game
   input = ""
   while input
     puts "Guess a number between 1 and 6."
